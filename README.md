@@ -1,1 +1,2 @@
-content hoc-git3
+new content to README.md file
+new lines
